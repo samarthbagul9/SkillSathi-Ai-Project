@@ -16,13 +16,13 @@ obj/
 # Node
 node_modules/
 
-# Environment files
+# Environment variables
 .env
 
-# Uploaded files
-backend/Uploads/
-
-# Database
+# Database files
 *.mdf
 *.ldf
 *.db
+
+# Uploads
+backend/Uploads/
