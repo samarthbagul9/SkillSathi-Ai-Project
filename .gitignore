@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Environment files
+.env
+
+# Uploaded files
+backend/Uploads/
+
+# Database
+*.mdf
+*.ldf
+*.db
